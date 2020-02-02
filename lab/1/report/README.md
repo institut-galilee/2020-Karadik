@@ -29,13 +29,13 @@ On utilise analogRead(A0) pour lire la valeur du potentiomètre *(branché au po
 Cela nous donne les résultats suivants : 
 
 > Résistance élevée
-![HIGH_RESISTANCE](media/ex1-without_microcontroller_LOW.jpg)
+![HIGH_RESISTANCE](../exercise/1/media/ex1-without_microcontroller_LOW.jpg)
 
 > Résistance moyenne
-![AVG_RESISTANCE](media/ex1-without_microcontroller_MID.jpg)
+![AVG_RESISTANCE](../exercise/1/media/ex1-without_microcontroller_MID.jpg)
 
 > Résistance faible
-![LOW_RESISTANCE](media/ex1-without_microcontroller_HIGH.jpg)
+![LOW_RESISTANCE](../exercise/1/media/ex1-without_microcontroller_HIGH.jpg)
 
 ## Avec un microcontrôleur
 
@@ -60,13 +60,13 @@ La LED est cette fois-ci branchée au port 3 afin de récupérer un signal PWM e
 Cela nous donne les résultats suivants : 
  
 > Résistance élevée
-![HIGH_RESISTANCE](media/ex1-with_microcontroller_LOW.jpg)
+![HIGH_RESISTANCE](../exercise/1/media/ex1-with_microcontroller_LOW.jpg)
 
 > Résistance moyenne
-![AVG_RESISTANCE](media/ex1-with_microcontroller_MID.jpg)
+![AVG_RESISTANCE](../exercise/1/media/ex1-with_microcontroller_MID.jpg)
 
 > Résistance faible
-![LOW_RESISTANCE](media/ex1-with_microcontroller_HIGH.jpg)
+![LOW_RESISTANCE](../exercise/1/media/ex1-with_microcontroller_HIGH.jpg)
 
 ## Conclusion
 On peut clairement remarquer que l'utilisation du microcontrôleur est bien plus efficace. En effet, sans ce dernier, on ne peut pas régler de manière précise la luminosité de la LED : elle est soit allumée à pleine puissance, soit éteinte. Avec le microcontrôleur, on a un contrôle bien plus précis sur son intensité lumineuse.
