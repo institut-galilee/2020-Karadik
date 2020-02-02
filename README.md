@@ -1,2 +1,7 @@
-# project-template
-This is the official template for student's projects
+# Dépôt GitHub de l'équipe KARADIK
+
+## Membres
+
+ - Nady SADDIK
+ - Alexandre KARAKAS 
+
