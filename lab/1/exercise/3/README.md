@@ -153,3 +153,4 @@ On a donc le résultat suivant (pour l'émoji) :
 ![EMOJI](media/ex3-matrice_8x8_emoji.jpg)
 
 Et une vidéo de démonstration est également visible dans le dossier media **(ex3-matrice_8x8_demonstration.mp4)**.
+On y affiche le nom de notre équipe ainsi qu'un émoji :)
