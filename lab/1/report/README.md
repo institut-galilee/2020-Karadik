@@ -305,6 +305,7 @@ Cela nous donne le résultat suivant :
 
 ![MONTAGE](../exercise/2/media/ex2-lesson15_montage.jpg)
 ![RESULTAT](../exercise/2/media/ex2-lesson15_date.jpg)
+* la date du jour était le 01 février, sur la photo on a l'impression qu'il est écrit 0182 mais en vrai on lisait bien 0102 *
 
 
 ## Avec un MAX7219
