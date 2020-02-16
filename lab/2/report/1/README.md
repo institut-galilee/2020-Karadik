@@ -8,3 +8,4 @@ Dans notre TP1 nous avons mis en place le branchement suivant :
 Nous avons également obtenu comme schema :
 
 ![Schema TP1](https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/2/report/1/schematic.png)
+
