@@ -10,7 +10,7 @@ Nous avons également obtenu comme schéma :
 
 ![Schéma TP1](./schematic.png)
 
-Le code qui permet d'allumer la LED selon la valeur du potentiomètre est très semblable à ce qu'on a fait dans le TP1. Cette fois-ci, on attache notre PIN au channel 0. La fonction ledcSetup définit un channel 0, avec une fréquence de 5000 Hz et une résolution de 8 bits. 
+Le code qui permet d'allumer la LED selon la valeur du potentiomètre est très semblable à ce qu'on a fait dans le TP1. Cette fois-ci, on attache notre PIN au channel PWM 0. La fonction ledcSetup définit un channel PWM de 0, avec une fréquence de 5000 Hz et une résolution de 8 bits. 
 
     const int ledPin = 22;
     const int potPin = 36;
