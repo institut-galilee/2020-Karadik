@@ -9,3 +9,9 @@ Nous avons également obtenu comme schema :
 
 ![Schema TP1](https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/2/report/1/schematic.png)
 
+Le schèma que nous avons utiliser pour Fritzing est le suivant :
+
+![Photo] (https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/2/report/1/20200216_170531.jpg)
+
+Dans ce montage nous avons mis un potentiomètre pour pouvoir régler l'intensité de la led. Ce potentiomètre doit prendre une sortie spécifique qui est indiqué dans les schemas sur Fritzing
+
