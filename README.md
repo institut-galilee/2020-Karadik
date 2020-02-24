@@ -1,3 +1,4 @@
+
 # La poubelle connectée Eco3, par Karadik
 L'équipe Karadik est fière de vous présenter son projet de poubelle connectée. Grâce à elle, fini les prises de tête lorsque vous devez jeter un déchet à la poubelle.
 
@@ -14,17 +15,36 @@ En plus d'être simple d'utilisation, cela permet aussi d'apprendre aux enfants 
 
 ## État de l'art
 
-### Bin.E
-TODO
-### La poubelle Eugène
-TODO
-### R3D3
-TODO
+### Bin.E - [Site officiel](http://www.bine.world/)
+![Poubelle connectée Bin.E](https://blogs.nvidia.com/wp-content/uploads/2019/04/31-bin-e.jpg)
+*(Crédits photo - [Bin-E](https://twitter.com/bineworld))*
+
+**A COMPLÉTER**
+
+
+### La poubelle Eugène - [Site officiel](https://www.uzer.eu/)
+![Boîtier Uzer Eugène](https://www.uzer.eu/img/main/HEADER-1.png)
+*(Crédits photo - [Site officiel de Uzer](https://www.uzer.eu/))*
+
+**A COMPLÉTER**
+
+### R3D3 - [Site officiel](https://www.green-creative.com/r3d3/collecte-recyclage)
+![Poubelle connectée R3D3](https://static.latribune.fr/full_width/895854/r3d3.jpg)
+
+*(Crédits photo - [La Tribune](https://www.latribune.fr/regions/ile-de-france/green-creative-les-poubelles-connectees-qui-simplifient-le-recyclage-762550.html))*
+
+Conçue en 2018 par l'entreprise française *Green Creative*, la poubelle R3D3 reconnaît, trie et compacte automatiquement les canettes, les gobelets et les bouteilles en plastique. Elle favorise ainsi le recyclage du plastique et de l'aluminium. Les gobelets de café, les bouteilles et canettes sont séparées, compactées et rangées dans des box distincts. Cela permet de faciliter la collecte et surtout le tri.
+
+> R3D3 peut ainsi engloutir « _l'équivalent de 100 bouteilles, 300 canettes et 400 gobelets_ »
+
+Grâce à la compression, elle permet aussi d’organiser moins de collectes, et donc de limiter des émissions de CO2. Par ailleurs, R3D3 avertit elle-même les responsables de l’entretien lorsqu’il y a besoin de la vider. Via une interface web dédiée, les entreprises peuvent ensuite suivre des indicateurs concernant leurs déchets.
+
+En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi que de son coût, la poubelle R3D3 est plus orientée pour les entreprises.
 
 
 ## Composants nécessaires
 - Une poubelle à 3 bacs
--  Raspberry Pi 3 Modèle B+ 1 GB (avec alimentation et ventilateur)
+- Raspberry Pi 3 Modèle B+ 1 GB (avec alimentation et ventilateur)
 - 1x module caméra 5 MP
 - 1x écran
 - 3x moteurs
@@ -33,9 +53,8 @@ TODO
 - 3x balances ?
 
 ## Étude fonctionnelle
-TODO
+**TODO**
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
- - Alexandre KARAKAS 
- 
+ - Alexandre KARAKAS
