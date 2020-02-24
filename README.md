@@ -53,7 +53,7 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 - 3x balances ?
 
 ## Étude fonctionnelle
-**TODO**
+![Diagramme d'activité](https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/Project/Eco_Activity.png)
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
