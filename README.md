@@ -62,6 +62,7 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 - 3x moteurs
 - 3x télémètres à ultrasons (SONAR)
 - 3x capteurs de poids ? 
+- Des résistances et des câbles
 
 ## Étude fonctionnelle
 
@@ -69,15 +70,21 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 Dans cette partie nous allons spécifier le système qui sera mis en place dans notre projet. Pour cela nous avons commencé par développer des diagrammes UML.
 
 Diagramme d'activité : 
-![Diagramme d'activité](https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/Project/Activity%20Activity%20diagram.png)
+
+![Diagramme d'activité](lab/Project/activity-diagram.png)
+
 Diagramme de cas d'utilisation : 
-**TODO**
+
+![Diagramme de cas d'utilisation](lab/Project/use-case-diagram.png)
+
 
 ### Exemples de branchements sur Fritzing
 Afin de brancher les trois servomoteurs au Raspberry Pi, on devrait procéder de la sorte : 
+
 ![Branchements moteur Fritzing](lab/Project/moteurs_bb.png)
 
-Pour brancher un sonar, on devra procéder ainsi : 
+Pour brancher un sonar, on devrait procéder ainsi : 
+
 ![Branchements SONAR Fritzing](https://raspberry-lab.fr/Composants/Mesure-de-distance-avec-HC-SR04-Raspberry-Francais/Images/Schema-Branchement-Raspberry-Model.3-HC-SR04.png)
 
 ## Membres de l'équipe participant au projet
