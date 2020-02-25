@@ -12,6 +12,15 @@ De plus, par l'intermédiaire d'un écran placé sur la poubelle, vous pourrez n
 
 En plus d'être simple d'utilisation, cela permet aussi d'apprendre aux enfants à recycler dès leur plus jeune âge, et de leur inculquer de bonnes habitudes.
 
+### Détails supplémentaires techniques
+Pour la reconnaissance d'images, une caméra est placée sur le couvercle de la poubelle, et celle-ci prend une photo du déchet que l'utilisateur lui aura présenté. 
+
+En utilisant l'outil Tensorflow, on comparera la photo prise avec une bibliothèque d'images de déchets regroupés en plusieurs catégories (i.e. papier, plastique, carton, verre, déchets alimentaires, ...).
+
+Une fois la photo catégorisé, on actionnera le moteur permettant d'ouvrir le bon bac afin que l'utilisateur puisse jeter son déchet.
+
+On reprendra une mesure avec le SONAR placé dans le bac sus-mentionné afin de recalculer le taux de remplissage de la poubelle, et on mettra à jour l'affichage de l'écran.
+
 ## État de l'art
 
 ### Bin.E - [Site officiel](http://www.bine.world/)
@@ -55,8 +64,21 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 - 3x capteurs de poids ? 
 
 ## Étude fonctionnelle
-Dans cette partie nous allons spécifier le système qui sera mis en place dans notre projet. Pour cela nous avons commencé par développer les diagrammes UML.
+
+### Diagrammes UML
+Dans cette partie nous allons spécifier le système qui sera mis en place dans notre projet. Pour cela nous avons commencé par développer des diagrammes UML.
+
+Diagramme d'activité : 
 ![Diagramme d'activité](https://raw.githubusercontent.com/institut-galilee/2020-Karadik/master/lab/Project/Activity%20Activity%20diagram.png)
+Diagramme de cas d'utilisation : 
+**TODO**
+
+### Exemples de branchements sur Fritzing
+Afin de brancher les trois servomoteurs au Raspberry Pi, on devrait procéder de la sorte : 
+![Branchements moteur Fritzing](lab/Project/moteurs_bb.png)
+
+Pour brancher un sonar, on devra procéder ainsi : 
+![Branchements SONAR Fritzing](https://raspberry-lab.fr/Composants/Mesure-de-distance-avec-HC-SR04-Raspberry-Francais/Images/Schema-Branchement-Raspberry-Model.3-HC-SR04.png)
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
