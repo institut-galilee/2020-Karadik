@@ -59,7 +59,7 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 - Raspberry Pi 3 Modèle B+ 1 GB (avec alimentation, ventilateur, et carte microSD)
 - 1x module caméra 5 MP
 - 1x écran
-- 3x moteurs
+- 3x servomoteurs
 - 3x télémètres à ultrasons (SONAR)
 - 3x capteurs de poids ? 
 - Des résistances et des câbles
@@ -79,13 +79,13 @@ Diagramme de cas d'utilisation :
 
 
 ### Exemples de branchements sur Fritzing
-Afin de brancher les trois servomoteurs au Raspberry Pi, on devrait procéder de la sorte : 
+Ce premier schéma montre comment on devrait procéder pour brancher les servomoteurs, la caméra et l'écran au Raspberry Pi.
 
-![Branchements moteur Fritzing](lab/Project/moteurs_bb.png)
+![Branchements moteur Fritzing](lab/Project/fritzing-1.png)
 
-Pour brancher un sonar, on devrait procéder ainsi : 
+Ce second schéma montre comment on devrait procéder pour brancher l'un des télémètres à ultrasons au Raspberry Pi. Comme dans l'exemple précédent, on pourrait aussi utiliser une alimentation externe.
 
-![Branchements SONAR Fritzing](https://raspberry-lab.fr/Composants/Mesure-de-distance-avec-HC-SR04-Raspberry-Francais/Images/Schema-Branchement-Raspberry-Model.3-HC-SR04.png)
+![Branchements SONAR Fritzing](lab/Project/fritzing-2-sonar.png)
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
