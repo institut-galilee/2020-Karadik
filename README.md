@@ -51,7 +51,7 @@ Conçue en 2018 par l'entreprise française *Green Creative*, la poubelle R3D3 r
 
 Grâce à la compression, elle permet aussi d’organiser moins de collectes, et donc de limiter des émissions de CO2. Par ailleurs, R3D3 avertit elle-même les responsables de l’entretien lorsqu’il y a besoin de la vider. Via une interface web dédiée, les entreprises peuvent ensuite suivre des indicateurs concernant leurs déchets.
 
-En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi que de son coût, la poubelle R3D3 est plus orientée pour les entreprises.
+En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi que de son coût (4 000 euros), la poubelle R3D3 est plus orientée pour les entreprises.
 
 
 ## Composants nécessaires
