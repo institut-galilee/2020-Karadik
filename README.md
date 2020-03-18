@@ -55,13 +55,13 @@ En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi 
 
 
 ## Composants nécessaires
-- Une poubelle à 3 bacs
+- Une poubelle à 3 bacs - *[Cdiscount.com](https://www.cdiscount.com/bricolage/sanitaire-salle-de-bain/poubelle-de-salle-de-bains-inox-3-litres-a-pedale/f-1661007-gen8714331009855.html)*
 - Raspberry Pi 3 Modèle B+ 1 GB (avec alimentation, ventilateur, et carte microSD)
-- 1x module caméra 5 MP
-- 1x écran
-- 3x servomoteurs
-- 3x télémètres à ultrasons (SONAR)
-- 3x capteurs de poids ? 
+- 1x module caméra 5 MP - *[Amazon.fr](https://www.amazon.fr/gp/product/B07PVF353B/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)*
+- 1x écran - *[Amazon.fr](https://www.amazon.fr/gp/product/B0798N2HHW/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1)*
+- 3x servomoteurs - *[Amazon.fr](https://www.amazon.fr/gp/product/B07CYZSVKW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)*
+- 3x télémètres à ultrasons (SONAR) - *[Amazon.fr](https://www.amazon.fr/gp/product/B01C6O9AH6/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)*
+- ~~3x capteurs de poids ?~~ *(pour des raisons de budget, nous n'en utilisons pas dans notre projet)*
 - Des résistances et des câbles
 
 ## Étude fonctionnelle
@@ -78,14 +78,10 @@ Diagramme de cas d'utilisation :
 ![Diagramme de cas d'utilisation](lab/Project/use-case-diagram.png)
 
 
-### Exemples de branchements sur Fritzing
-Ce premier schéma montre comment on devrait procéder pour brancher les servomoteurs, la caméra et l'écran au Raspberry Pi.
+### Branchements sur Fritzing
+Ce schéma montre à quoi devrait ressembler notre système une fois tous les composants branchés au Raspberry Pi. Pour le moment, c'est purement théorique et il sera peut-être sujet à des modifications.
 
-![Branchements moteur Fritzing](lab/Project/fritzing-1.png)
-
-Ce second schéma montre comment on devrait procéder pour brancher l'un des télémètres à ultrasons au Raspberry Pi. Comme dans l'exemple précédent, on pourrait aussi utiliser une alimentation externe.
-
-![Branchements SONAR Fritzing](lab/Project/fritzing-2-sonar.png)
+![Branchements Fritzing](lab/Project/eco3-theoretical-sketch.png)
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
