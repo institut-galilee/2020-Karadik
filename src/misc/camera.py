@@ -1,5 +1,5 @@
-from picamera import picamera
-from time import sleep
+import picamera
+import time
 import classify_original
 
 camera = PiCamera()
