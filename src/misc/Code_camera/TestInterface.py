@@ -18,9 +18,4 @@ class Interface (Frame) :
         self.bouton_cliquer.pack(side="right")
 
     def cliquer(self):
-        camera.capture_photo_analyse()
-
-fenetre = Tk()
-interface = Interface(fenetre)
-interface.mainloop()
-interface.destroy()
+        camera.captureImageAnalyse()
