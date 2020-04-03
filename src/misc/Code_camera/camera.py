@@ -2,7 +2,7 @@ import picamera
 import time
 import classify_original
 
-def capture_photo_analyse() :
+def captureImageAnalyse():
     camera = PiCamera()
     camera.start_preview()
     sleep(1)
