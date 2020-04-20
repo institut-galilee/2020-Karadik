@@ -7,4 +7,7 @@ def captureImageAnalyse():
     camera.start_preview()
     camera.capture('/home/pi/Desktop/image.jpg')
     camera.stop_preview()
-    classify_original.analyse("/home/pi/Desktop/image.jpg")
+    value = classify_original.analyse("/home/pi/Desktop/image.jpg")
+    for cle, valeur  in value.items():
+        print('%s (valeur = %.5f)' % (cle, valeur))
+        
