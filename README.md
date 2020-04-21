@@ -54,7 +54,7 @@ Grâce à la compression, elle permet aussi d’organiser moins de collectes, et
 En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi que de son coût (4 000 euros), la poubelle R3D3 est plus orientée pour les entreprises.
 
 ### BigBelly - [Site Officiel](https://bigbelly.com/)
-![BigBelly](https://en.wikipedia.org/wiki/BigBelly#/media/File:Bigbelly_Trash_and_Recycling_Stations.jpg)
+![BigBelly](https://upload.wikimedia.org/wikipedia/commons/2/26/Bigbelly_Trash_and_Recycling_Stations.jpg)
 
 ## Composants nécessaires
 - Une poubelle à 3 bacs - *[Cdiscount.com](https://www.cdiscount.com/bricolage/sanitaire-salle-de-bain/poubelle-de-salle-de-bains-inox-3-litres-a-pedale/f-1661007-gen8714331009855.html)*
