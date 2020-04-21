@@ -22,6 +22,7 @@ Une fois la photo catégorisé, on actionnera le moteur permettant d'ouvrir le b
 On reprendra une mesure avec le SONAR placé dans le bac sus-mentionné afin de recalculer le taux de remplissage de la poubelle, et on mettra à jour l'affichage de l'écran.
 
 ## État de l'art
+Les enjeux d'écologie et de développement durable sont devenus si important qu'il y a plusieurs société qui se sont lancé dans la Smart Cities (ville intelligente). Les villes connectée promet dans le futur une optimisation de ramassages des déchets, gestion des feu rouges ou de l'éclairage. Au fil du temps, nous jettons de plus en plus de déchets (plus de 4, 5 millions de tonnes/ personnes). Il devient d'agir et bon nombre de grande ville commencent à s'équipper de poubelle connectée pour apprendre ou pour inciter les usagers à jeter et trier plus leur déchets. Le marché est très grand, nous avons d'un côté un marché destiné aux particulier, aux entreprises et aux collectivités. 
 
 ### Bin.E - [Site officiel](http://www.bine.world/)
 ![Poubelle connectée Bin.E](https://blogs.nvidia.com/wp-content/uploads/2019/04/31-bin-e.jpg)
