@@ -18,4 +18,6 @@ class Interface (Frame) :
         self.bouton_cliquer.pack(side="right")
 
     def cliquer(self):
-        camera.captureImageAnalyse()
+        value = camera.captureImageAnalyse()
+        Text = StringVar()
+        Text.set(value)
