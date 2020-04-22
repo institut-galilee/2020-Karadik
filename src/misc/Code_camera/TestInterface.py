@@ -19,5 +19,6 @@ class Interface (Frame) :
 
     def cliquer(self):
         value = camera.captureImageAnalyse()
-        Text = StringVar()
-        Text.set(value)
+        self.message = Label(self, text=value)
+        self.message.pack()
+        

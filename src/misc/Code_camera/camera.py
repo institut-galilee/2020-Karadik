@@ -10,4 +10,4 @@ def captureImageAnalyse():
     return value
     #for cle, valeur  in value.items():
      #   print('%s (valeur = %.5f)' % (cle, valeur))
-        
+    camera.close()
