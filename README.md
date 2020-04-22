@@ -22,6 +22,7 @@ Une fois la photo catégorisé, on actionnera le moteur permettant d'ouvrir le b
 On reprendra une mesure avec le SONAR placé dans le bac sus-mentionné afin de recalculer le taux de remplissage de la poubelle, et on mettra à jour l'affichage de l'écran.
 
 ## État de l'art
+Les enjeux d'écologie et de développement durable sont devenus si important qu'il y a plusieurs société qui se sont lancé dans la Smart Cities (ville intelligente). Les villes connectée promet dans le futur une optimisation de ramassages des déchets, gestion des feu rouges ou de l'éclairage. Au fil du temps, nous jettons de plus en plus de déchets (plus de 4, 5 millions de tonnes/ personnes). Il devient d'agir et bon nombre de grande ville commencent à s'équipper de poubelle connectée pour apprendre ou pour inciter les usagers à jeter et trier plus leur déchets. Le marché est très grand, nous avons d'un côté un marché destiné aux particulier, aux entreprises et aux collectivités. 
 
 ### Bin.E - [Site officiel](http://www.bine.world/)
 ![Poubelle connectée Bin.E](https://blogs.nvidia.com/wp-content/uploads/2019/04/31-bin-e.jpg)
@@ -53,6 +54,11 @@ Grâce à la compression, elle permet aussi d’organiser moins de collectes, et
 
 En raison de ses dimensions et de son poids important (environ 60 kilos), ainsi que de son coût (4 000 euros), la poubelle R3D3 est plus orientée pour les entreprises.
 
+### BigBelly - [Site Officiel](https://bigbelly.com/)
+![BigBelly](https://upload.wikimedia.org/wikipedia/commons/2/26/Bigbelly_Trash_and_Recycling_Stations.jpg)
+
+BigBelly est une poubelle conçu par la société Future Street. Elle permet grâce à l'alimentation électrique solaire de permettre de
+Compacter automatiquement les déchets ce qui permet d'avoir une capacité de 600 Litres équivalent à la capacité de 10 poubelle en moyenne. Il permet également de savoir en temps réel le remplissage pour les agents de propreté. Pour inciter les usagers pour l'utiliser, il existe un système de récompense (comme des billets de spectacle...) Un modèle avec le tri selectif devrait être développer.
 
 ## Composants nécessaires
 - Une poubelle à 3 bacs - *[Cdiscount.com](https://www.cdiscount.com/bricolage/sanitaire-salle-de-bain/poubelle-de-salle-de-bains-inox-3-litres-a-pedale/f-1661007-gen8714331009855.html)*
