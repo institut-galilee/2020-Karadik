@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 import camera
 
 class Interface (Frame) :
@@ -21,4 +21,3 @@ class Interface (Frame) :
         value = camera.captureImageAnalyse()
         self.message = Label(self, text=value)
         self.message.pack()
-        
