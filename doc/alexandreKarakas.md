@@ -7,4 +7,12 @@ Chacun de notre côté avons réflechis aux composants. Nous nous sommes vu plus
 
 Pour pouvoir mené à bien notre projet nous avons séparer le projet en plusieurs partie dont :
 La conception, le montage, l'interface et l'etude de marchés. 
-Je me suis chargé de l'interface dont vous trouverez les fichiers sur le git. Pour pouvoir faire le lien avec les composants, j'ai décidé avec l'accord de mon binôme, d'utiliser Tkinter. Tkinter est un module à la fois simple et fonctionnelle pour créer des interfaces graphiques assez rapiedment.
+Je me suis chargé de l'interface dont vous trouverez les fichiers sur le git. 
+
+#### Interface
+Pour pouvoir faire le lien avec les composants, j'ai décidé avec l'accord de mon binôme, d'utiliser Tkinter. Tkinter est un module à la fois simple et fonctionnelle pour créer des interfaces graphiques assez rapiedment. J'ai donc créer une interface avec plusieurs boutons. Un bouton pour pouvoir prendre des photos, ces photos seront ensuite analysés par un programme qui s'appelle Tensorflow.
+Un bouton pour pouvoir indiqué l'état de la poubelle en particulier sur le taux de remplissage de la poubelle
+Un autre bouton pour pouvoir rapidement quitter l'interface.
+Nous avions également à un problème qui était apparu dans le projet. Nous n'avions pas de bouton pour pouvoir prendre une photo.
+j'ai eu donc l'idée de creer des boutons virtuels pour remplacer un bouton physique. J'ai donc décider d'en parler avec mon collegue et par son accord nous avons décider de suivre cette solution.
+ 
