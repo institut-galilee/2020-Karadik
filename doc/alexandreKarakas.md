@@ -1,4 +1,5 @@
 ## Fiche personnelle d'activité Alexandre KARAKAS
+
 ### Résumé des activités
 
 Au tout début du projet, nous avons fait le choix de construire une poubelle connectée afin des permettre à chacun et de manière ludique d'apprendre à trier ses déchets. 
@@ -20,6 +21,11 @@ j'ai eu donc l'idée de creer des boutons virtuels pour remplacer un bouton phys
 
 #### Caméra
 Je me suis également chargé de créer un fichier pour la caméra. Grâce au module de la caméra piCamera qui est présent dans le système de la Raspberry pi 3, ce fichier permet de prendre une photo. Le fichier classify_original permet de l'analuser et renvoie la valeur. 
+
+#### Etat de l'art
+Conernanr l'état de l'art, nous avons partagés les recherches sur l'état de l'art et sur les solutions qui existe dans le monde. L'état de l'art à été fait en collaboration avec Nady
+
+## Les acquis
 
 
 
