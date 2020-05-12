@@ -22,7 +22,7 @@ j'ai eu donc l'idée de creer des boutons virtuels pour remplacer un bouton phys
 - [Graphique.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/Graphique.py)
 
 #### Caméra
-Je me suis également chargé de créer un fichier pour la [caméra](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/camera.py). Grâce au module de la caméra piCamera qui est présent dans le système de la Raspberry pi 3, ce fichier permet de prendre une photo. Le fichier [classify_original](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/classify_original.py) permet de l'analuser et renvoie la valeur. 
+Je me suis également chargé de créer un fichier pour la [caméra](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/camera.py). Grâce au module de la caméra piCamera qui est présent dans le système de la Raspberry pi 3, ce fichier permet de prendre une photo. Le fichier [classify_original](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/classify_original.py) permet de l'analyser et renvoie la valeur. 
 
 #### Etat de l'art
 Conernanr l'état de l'art, nous avons partagés les recherches sur l'état de l'art et sur les solutions qui existe dans le monde. L'état de l'art à été fait en collaboration avec Nady
