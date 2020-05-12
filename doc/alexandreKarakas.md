@@ -17,10 +17,12 @@ Un autre bouton pour pouvoir rapidement quitter l'interface.
 
 Nous avions également à un problème qui était apparu dans le projet. 
 Nous n'avions pas de bouton pour pouvoir prendre une photo.
-j'ai eu donc l'idée de creer des boutons virtuels pour remplacer un bouton physique. J'ai donc décider d'en parler avec mon collegue et par son accord nous avons décider de suivre cette solution.
+j'ai eu donc l'idée de creer des boutons virtuels pour remplacer un bouton physique. J'ai donc décider d'en parler avec mon collegue et par son accord nous avons décider de suivre cette solution. J'ai donc créer deux fichier dont :
+- [TestInterface.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/TestInterface.py)
+- [Graphique.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/Graphique.py)
 
 #### Caméra
-Je me suis également chargé de créer un fichier pour la caméra. Grâce au module de la caméra piCamera qui est présent dans le système de la Raspberry pi 3, ce fichier permet de prendre une photo. Le fichier classify_original permet de l'analuser et renvoie la valeur. 
+Je me suis également chargé de créer un fichier pour la [caméra](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/camera.py). Grâce au module de la caméra piCamera qui est présent dans le système de la Raspberry pi 3, ce fichier permet de prendre une photo. Le fichier [classify_original](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/classify_original.py) permet de l'analuser et renvoie la valeur. 
 
 #### Etat de l'art
 Conernanr l'état de l'art, nous avons partagés les recherches sur l'état de l'art et sur les solutions qui existe dans le monde. L'état de l'art à été fait en collaboration avec Nady
