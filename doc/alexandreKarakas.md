@@ -27,5 +27,12 @@ Conernanr l'état de l'art, nous avons partagés les recherches sur l'état de l
 
 ## Les acquis
 
+Le projet dans son ensemble m'a permis d'apprendre a mener à bien un projet, de la conception à la réalisation du prototype. Malgrès une periode difficile, j'ai pu apprendre à utiliser Python et à créer un interface avec ce même langage. 
+Faire une étude de marché à été enrichissant en particulier de rechercher des solutions existante ainsi que l'étendu du marché. Ce qui peut me permettre à l'avenir de créer une start up sur ces bases. 
+Le projet m'a permis de résoudre des problèmes que nous avons rencontré tout au long du projet. Ce qui permet aussi d'apprendre à gérer les imprévus. 
+
+Les connaissances que j'ai acquis sur le materiels en particulier sur les Raspberry et sur les montages me permettra d'avoir une expérience sur les objets connectée, leur fonctionnement et de comment ont-ils été conçus.
+
+Faire une étude de marché permet de savoir si notre produit correspond bien à un besoin spécifique d'une entreprise, d'un particulier ou d'une structure publique. Cette étude permet aussi d'améliorer le produit existants et d'avoir une longueurs d'avance sur les concurrents.
 
 
