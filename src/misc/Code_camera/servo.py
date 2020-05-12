@@ -50,6 +50,5 @@ def open_can (id) :
     elif id == 3 : #Si déchets ménagers
         pwm_gpio = 22
         activate_servo(pwm_gpio)
-    else : #Si trop volumineux ou bac plein
+    #Sinon trop volumineux ou bac plein
         # Renvoyer un msg à l'utilisateur
-        

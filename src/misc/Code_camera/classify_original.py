@@ -37,7 +37,11 @@ def analyse(path) :
             for node_id in top_k:
                 human_string = label_lines[node_id]
                 score = predictions[0][node_id]
-                #print('%s (score = %.5f)' % (human_string, score))
+                print('%s (score = %.5f)' % (human_string, score))
                 dictionnaire[human_string] = score
     return dictionnaire
-    
+
+
+def getMaxKey(dict):
+	max_key = max(dict, key=dict.get)
+	return max_key

@@ -7,7 +7,7 @@ class Interface (Frame) :
         self.pack(fill=BOTH)
 
         #creation widgets
-        self.message = Label(self, text="Interface de Test")
+        self.message = Label(self, text="Prototype poubelle ECO3, par Karadik")
         self.message.pack()
         
         #Bouton quitter
