@@ -94,7 +94,7 @@ Notre projet s'articule sur deux partie. L'une des partie corresponds au montage
 ### Montage de la poubelle
 
 ### Interface
-Pour développer l'interface graphique et pouvoir communiquer avec les autres composants nous avons choisis de développer l'interface sous Tkinter, Tkinter est un module qui est integré avec python. Pour pouvoir l'utiliser il a fallu l'importer dans le dossier du projet  et de créer des widgets. Ces widgets permet de créer des boutons qui communiqueront avec les composants
+Pour développer l'interface graphique et pouvoir communiquer avec les autres composants nous avons choisis de développer l'interface sous Tkinter, Tkinter est un module qui est integré avec python. Pour pouvoir l'utiliser il a fallu l'importer dans le dossier du projet  et de créer des widgets. Ces widgets permettent de créer des boutons qui communiqueront avec les composants
 
 ## Membres de l'équipe participant au projet
  - Nady SADDIK
