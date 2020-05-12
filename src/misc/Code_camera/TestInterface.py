@@ -16,7 +16,7 @@ class Interface (Frame) :
         self.bouton_quitter.pack(side="left")
 
         self.bouton_analyse = Button(self, text="Analyser la poubelle", command=self.analyse_contenu)
-        self.bouton_analyse.pack(side="middle")
+        self.bouton_analyse.pack(side="top")
 
         self.bouton_cliquer = Button(self, text="Prendre une photo", fg="blue", command=self.cliquer)
         self.bouton_cliquer.pack(side="right")
