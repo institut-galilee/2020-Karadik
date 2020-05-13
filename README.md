@@ -16,4 +16,4 @@ De plus, par l'intermédiaire d'un écran placé sur la poubelle, vous pourrez n
 En plus d'être simple d'utilisation, cela permet aussi d'apprendre aux enfants à recycler dès leur plus jeune âge, et de leur inculquer de bonnes habitudes.
 
 ## Vidéo de présentation
-La vidéo de 3 minutes est disponible (sur Youtube)[https://www.youtube.com/watch?v=kYA4_jZysQE].
+La vidéo de 3 minutes est disponible [sur Youtube](https://www.youtube.com/watch?v=kYA4_jZysQE).
