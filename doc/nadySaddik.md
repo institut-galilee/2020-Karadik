@@ -6,10 +6,10 @@ A titre personnel, je me suis chargé de la réalisation du [schéma Fritzing](h
 
 Niveau code, j'ai créé les fichiers :
 
- - [servo.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/servo.py), qui s'occupe de gérer les servomoteurs et en active un des trois lorsqu'il le faut.
- - [sonar.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/sonar.py), qui se charge de gérer les SONARs et calcule le taux de remplissage des bacs de la poubelle.
+ - [servo.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/code/servo.py), qui s'occupe de gérer les servomoteurs et en active un des trois lorsqu'il le faut.
+ - [sonar.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/code/sonar.py), qui se charge de gérer les SONARs et calcule le taux de remplissage des bacs de la poubelle.
 
-J'ai aussi apporté ma contribution au fichier [camera.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/misc/Code_camera/camera.py), avec la liaison du résultat de l'analyse au type de déchet.
+J'ai aussi apporté ma contribution au fichier [camera.py](https://github.com/institut-galilee/2020-Karadik/blob/master/src/code/camera.py), avec la liaison du résultat de l'analyse au type de déchet.
 
 Ayant le matériel depuis le début du confinement, je me suis chargé du montage et de tester les différents codes mis au point par Alexandre et par moi-même (et de les corriger légèrement si nécessaire). 
 
